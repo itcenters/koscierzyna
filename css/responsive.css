@@ -1,0 +1,10 @@
+
+@media only screen and (min-width: 960px) and (max-width: 1024px) {
+.container .grid_8 { width: 390px !important;}
+.containerheading{padding-top:175px !important;}
+.containerimg{margin-left:85px !important;}
+.container .grid_5{ width:230px !important;}
+
+
+}
+
